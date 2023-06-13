@@ -123,9 +123,9 @@ button{
     left: -30%; 
     transform: translate(-50% , -50%);
     z-index: 101;
-    background-color: #fff;
+    background-color: #e7efee;
     padding: 25px;
-    border: 2px solid #fff;
+    /* border: 2px solid #fff; */
     border-radius: 12px;
     box-shadow: 0 0 5px #333;
     transition: .5s;
@@ -168,7 +168,7 @@ button{
     height: 100%;
     border: none;
     outline: none;
-    background: #fff;
+    background: #e7efee;
     border-bottom: 2px solid #aaaaaa;
     color: #333;
     padding: 0 30px;
